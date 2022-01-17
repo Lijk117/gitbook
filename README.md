@@ -1,2 +1,6 @@
-# gitbook
-for gitbook
+---
+description: 别慌，不用敲代码，现在只是 demo 阶段，先记点内容
+---
+
+# 电子书教程
+
