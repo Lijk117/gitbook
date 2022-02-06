@@ -14,5 +14,5 @@
 * [Markdown 排版规范](markdown-pai-ban-gui-fan.md)
 * [GitBook 绑定域名](gitbook-bang-ding-yu-ming.md)
 * [这是个测试文章](zhe-shi-ge-ce-shi-wen-zhang.md)
-*  [GitHub注册](GitHub-sign-in.md) 
-*  [Mac 安装 Gitbook](Mac-install- Gitbook.md) 
+* [GitHub注册](GitHub-sign-in.md)
+* [\[Mac 安装 Gitbook\](Mac-install- Gitbook.md)](mac-an-zhuang-gitbookmacinstall-gitbook.md.md)
